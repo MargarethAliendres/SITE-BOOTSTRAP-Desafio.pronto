@@ -1,0 +1,26 @@
+body{
+    font: 20px arial, sans-serife; 
+}
+
+.navbar{
+    background-color: #5e610b; 
+}
+.navbar img{
+    border-radius: 20%;
+}
+.quem-somos{
+    background-color: aqua;
+    color: white;
+}
+.margin{
+         padding-bottom: 50px; /* para locais com cores é melhor colocar padding no lugar de margin*/
+         padding-top: 10px;
+}
+
+.parceiros{
+    background-color: aquamarine;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
