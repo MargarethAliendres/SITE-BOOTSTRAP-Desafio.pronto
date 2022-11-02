@@ -5,9 +5,7 @@ body{
 .navbar{
     background-color: #5e610b; 
 }
-.navbar img{
-    border-radius: 20%;
-}
+
 .quem-somos{
     background-color: aqua;
     color: white;
